@@ -1,11 +1,12 @@
-#include<stdio.h>
+#include <studio,h>
+
 /**
- * main -Entry point
+ * main - prints a text
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of heart\n*);
+	printf("with proper grammar, but the outcome is a piece or art,\n");
 	return (0);
 }
