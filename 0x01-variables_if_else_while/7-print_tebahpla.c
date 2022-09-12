@@ -15,7 +15,7 @@ int main(void)
 	while (i > 96)
 	{
 
-		putchar(1);
+		putchar(i);
 		i--;
 	}
 	putchar(10);
