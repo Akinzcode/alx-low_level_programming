@@ -17,3 +17,5 @@ a program that prints all single digit numbers of base 10 starting from 0
 Smile in the mirror
 
 a program that prints all the numbers of base 16 in lowercase
+
+Patience, persistence and perspiration
