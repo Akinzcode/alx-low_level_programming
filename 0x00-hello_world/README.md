@@ -15,3 +15,5 @@ a C program that prints exactly
 a C program that prints the size of various types on the computer it is compiled and run on
 
 a script that generates the assembly code
+
+Positive anything is better than negative nothing
