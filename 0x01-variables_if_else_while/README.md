@@ -21,3 +21,5 @@ a program that prints all the numbers of base 16 in lowercase
 Patience, persistence and perspiration
 
 Inventing is a combination of brains and materials.
+
+The success combination in business is: Do what you do better
