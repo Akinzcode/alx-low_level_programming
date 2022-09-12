@@ -19,3 +19,5 @@ Smile in the mirror
 a program that prints all the numbers of base 16 in lowercase
 
 Patience, persistence and perspiration
+
+Inventing is a combination of brains and materials.
