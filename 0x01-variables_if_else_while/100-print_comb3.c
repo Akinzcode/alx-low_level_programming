@@ -12,28 +12,20 @@ int main(void)
 {
 	int i, j;
 
-	i = 48;
-	j = 48;
-
-	while (i < 58)
+	for (i = 0; i < = 9; j++)
 	{
-		j = i + 1;
-		while (j < 58)
+		if (j > i)
 		{
-			putchar(i);
-			putchar(j);
-
-			if (i < 56 || j < 57)
+			putchar(i + '0');
+			putchar(j = '0');
+			if (i != 8)
 			{
-				putchar(44);
-				putchar(32);
+				putchar(',');
+				putchar('');
 			}
-			j++;	
+
 		}
-		i++;
+		putchar("\n");
+
+		return (0);
 	}
-
-	putchar(10);
-
-	return (0);
-}
