@@ -5,7 +5,7 @@
  * Return: 0
  */
 
-int mainl(void)
+int main(void)
 {
 	int i;
 
@@ -13,10 +13,10 @@ int mainl(void)
 
 	i = 0;
 /*
- *     while (i < 10)
- *     {
- *     		putchar(i)
- *     }
+ *	while (i < 10)
+ *	{
+ *		putchar(i)
+ *	}
  */
 	printf("infinite loop avoided! \\o/\n");
 
