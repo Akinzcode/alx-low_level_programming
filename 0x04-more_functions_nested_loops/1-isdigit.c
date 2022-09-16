@@ -2,17 +2,17 @@
 #include <stdio.h>
 
 /**
- * mul - multiplies two integers
+ * _isdigit - function to check 0-9
  *
- * @a: first input
- * @b: second input
+ * @c: checks input of function
  *
- * Return: product of a & b
+ * Return: returns 1 if 'c' is digit
+ *	otherwise always 0 (Success)
  */
 
-int mul(int a, int b)
+int _isdigit(int c)
 {
-int product = a * b;
-
-return (product);
+	if (c >= 48 && c <= 57)
+	return (1);
+	return (0);
 }
