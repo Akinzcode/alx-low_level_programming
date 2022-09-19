@@ -2,7 +2,7 @@
 #define MAIN_H
 
 /**
- * void prototype()
+ * void prototypes()
  * int prototypes()
  */
 
