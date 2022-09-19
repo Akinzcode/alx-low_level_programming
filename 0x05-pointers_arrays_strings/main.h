@@ -1,10 +1,7 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef MAIN_H_INCLUDED
+#define MAIN_H_INCLUDED
 
-/**
- * void prototypes()
- * int prototypes()
- */
+#include <stdio.h>
 
 void reset_to_98(int *n);
 void swap_int(int *a, int *b);
@@ -18,4 +15,4 @@ void print_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 int _atoi(char *str);
 
-#endif /*MAIN_H*/
+#endif
