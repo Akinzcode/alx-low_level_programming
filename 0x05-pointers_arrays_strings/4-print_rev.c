@@ -1,25 +1,18 @@
-#include "main.h"
+#include <stdio.h>
+#include <string.h>
+include "main.h"
 
 /**
- * print_rev - prints string backwards
- * @s: string
- * Return: void
+ * print_rev - prints a string in reserve order
+ * @s: String to reserve
+ * Return: Nothing
  */
 
 void print_rev(char *s)
 {
-	int i = 0;
+	int len = strlen(s);
 
-	while (s[i] != '\0')
-	{
-		1++;
-
-	}
-	i--;
-	while (i >= 0)
-	{
-		_putchar(s[i]);
-		i--;
-	}
-	_putchar('\n');
+	while (len--)
+		putchar(*(s + len));
+	putchar(10);
 }
