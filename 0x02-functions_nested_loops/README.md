@@ -1,1 +1,3 @@
-a program that prints _putchar, followed by a new lin
+0x02 functions nested loops
+
+a program that prints _putchar, followed by a new line
