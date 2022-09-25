@@ -3,6 +3,7 @@
 /**
  * numLength - returns the length of string
  * @num: operand number
+ * Return: number of digits
  */
 
 int numLength(int num)
@@ -48,7 +49,7 @@ int main(void)
 	printf("%lu", f1);
 
 	tmp = (f1 + f2) % mx;
-	tmpo = f1o +f2o + (f1 + f2) / mx;
+	tmpo = f1o + f2o + (f1 + f2) / mx;
 	f1 = f2;
 	f1o = f2o;
 	f2 = tmp;
