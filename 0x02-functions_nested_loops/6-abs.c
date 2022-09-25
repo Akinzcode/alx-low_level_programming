@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _abs - Entry point 
+ * _abs - Entry point
  *
  * @n: n is an integer
  *
